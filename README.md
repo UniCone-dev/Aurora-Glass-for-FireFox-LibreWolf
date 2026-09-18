@@ -1,5 +1,4 @@
-# Fluent-Tab-glass-edition
-LibreWolf new Open-Sorce Premium theme.
+# Aurora Glass — macOS × Edge New Tab
 
 A Windows-Start-Menu-layout new tab page, restyled with a **macOS vibrancy + Microsoft
 Edge Aurora** visual language: traffic-light window controls, squircle app icons, a
@@ -7,10 +6,6 @@ floating magnifying dock, frosted glass everywhere, spring-based motion, and now
 second full theme — **Sifiomini** — plus six interchangeable shortcut-icon styles.
 100% local, open-source, no tracking, no analytics, no accounts. Everything is saved
 directly inside your browser's local storage.
-# LOOKs and Feels
-<img width="1920" height="939" alt="Screenshot From 2026-09-18 17-46-17" src="https://github.com/user-attachments/assets/0085a732-6ce6-45e2-81ec-071851164133" />
-<img width="1920" height="909" alt="Screenshot From 2026-09-18 12-50-28" src="https://github.com/user-attachments/assets/d0abe941-7e2d-43a0-8a2c-b0f5fb2473b7" />
-<img width="1920" height="909" alt="Screenshot From 2026-09-18 12-50-52" src="https://github.com/user-attachments/assets/7f0b7b11-24d4-4241-b8ba-525a2a742b24" />
 
 # Themes
 
@@ -39,7 +34,7 @@ dock). Six options:
    (respects the separate "Squircle app icons" toggle for its exact curve).
 6. **Minimal** — no background or shadow on the icon at all, just a flat glyph.
 
-# What changed from the original Fluent Tab
+# What changed from the original Aurora Glass
 
 - **Traffic-light buttons** — every panel's close button is now red/yellow/green,
   macOS-style (toggle back to a plain ✕ in Settings → Appearance).
@@ -136,7 +131,7 @@ Option B — Permanent Installation (Disabling signing requirements)
 
     Open about:config in LibreWolf.
 
-    Search for ```xpinstall.signatures.required``` and set it to false (LibreWolf officially supports this toggle due to its privacy-focused design).
+    Search for xpinstall.signatures.required and set it to false (LibreWolf officially supports this toggle due to its privacy-focused design).
 
     Package the project folder into an .xpi file (a standard ZIP archive renamed to .xpi). Then navigate to about:addons → click the gear icon → select "Install Add-on From File".
 
@@ -170,6 +165,6 @@ Built without build steps, bundlers, or external dependencies — structured pur
 
 Credits
 
-    Design & Project Lead — (UniCone-dev)
+    Design & Project Lead — UniCone-dev
 
     Coding Assistance — Claude (Anthropic)
