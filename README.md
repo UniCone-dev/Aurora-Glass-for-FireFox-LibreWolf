@@ -6,7 +6,11 @@ floating magnifying dock, frosted glass everywhere, spring-based motion, and now
 second full theme — **Sifiomini** — plus six interchangeable shortcut-icon styles.
 100% local, open-source, no tracking, no analytics, no accounts. Everything is saved
 directly inside your browser's local storage.
-
+# looks and  feels
+<img width="1920" height="909" alt="Screenshot From 2026-09-18 12-50-43" src="https://github.com/user-attachments/assets/1892852e-eaca-48fd-8d53-987a96f4c963" />
+<img width="1920" height="909" alt="Screenshot From 2026-09-18 12-50-52" src="https://github.com/user-attachments/assets/790efdcb-3588-46c2-8f94-43c02ed760cf" />
+<img width="1920" height="909" alt="Screenshot From 2026-09-18 12-50-28" src="https://github.com/user-attachments/assets/4da9fd75-373d-4771-8d3b-b91985c27504" />
+<img width="1920" height="939" alt="Screenshot From 2026-09-18 17-58-46" src="https://github.com/user-attachments/assets/79e904c1-e35e-4ba1-8b99-80d5b6dbc88d" />
 # Themes
 
 Settings → Appearance → **Theme** lets you switch between two full looks, live:
