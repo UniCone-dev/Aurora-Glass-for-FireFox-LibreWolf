@@ -118,9 +118,15 @@ Because this connects directly to your personal Google Cloud project without inv
 The extension requests only storage permissions (for saving settings locally) and geolocation permissions (triggered strictly when you press the "current location" button). It contains no analytics, telemetry, or tracking scripts. The complete codebase consists solely of four readable files:
 manifest.json, newtab.html, css/style.css, and js/script.js.
 
-# How to Install in LibreWolf / Firefox-based browsers
+# Formal installtion (Recommended) #safe Firefox & LibreWolf.
 
-Option A — Temporary Load (Easiest for testing)
+Now we are on FireFox: https://addons.mozilla.org/en-US/firefox/addon/aurora-glass-edge-new-tab/  
+This site is mozilla offical so You can download from here.
+also on mobile firefox.
+
+# For Devlopers 
+
+Option B — Temporary Load (Easiest for testing)
 
     Open about:debugging#/runtime/this-firefox in LibreWolf.
 
@@ -131,7 +137,7 @@ Option A — Temporary Load (Easiest for testing)
     Open a new tab — your new tab page will update instantly.
     ⚠️ Note: This temporary installation will revert whenever the browser restarts, requiring you to reload the file.
 
-Option B — Permanent Installation (Disabling signing requirements)
+Option C — Permanent Installation (Disabling signing requirements)
 
     Open about:config in LibreWolf.
 
