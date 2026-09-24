@@ -174,4 +174,4 @@ Built without build steps, bundlers, or external dependencies — structured pur
 
 Credits
 
-    Design & Project Lead — UniCone-dev
+    Design & Project Lead — UniCone-dev & Claude (Anthropic)
