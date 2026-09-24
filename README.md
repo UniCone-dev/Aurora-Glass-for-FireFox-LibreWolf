@@ -176,5 +176,3 @@ Built without build steps, bundlers, or external dependencies — structured pur
 Credits
 
     Design & Project Lead — UniCone-dev
-
-    Coding Assistance — Claude (Anthropic)
