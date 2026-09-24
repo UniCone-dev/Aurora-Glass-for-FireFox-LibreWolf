@@ -1,5 +1,5 @@
 # Aurora Glass — macOS × Edge New Tab
-
+*OLD version Go to latest version*
 A Windows-Start-Menu-layout new tab page, restyled with a **macOS vibrancy + Microsoft
 Edge Aurora** visual language: traffic-light window controls, squircle app icons, a
 floating magnifying dock, frosted glass everywhere, spring-based motion, and now a
